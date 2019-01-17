@@ -8,5 +8,6 @@ We provide you tutorial in Cantonese and source code with comment in English
 You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.youtube.com/channel/UCXnU8m7TXF4n1hxf5XWxPCA).
 
 # Courses and Progress
-1. Learn programming from making a simple calculator.
+1. Learn programming from saying *Hello,World!*
+2. Learn programming from making a simple calculator.
    * Preparing
