@@ -12,3 +12,5 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
    * Almost there
 2. Learn programming from making a simple calculator.
    * Preparing
+
+# Work together
