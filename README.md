@@ -23,7 +23,7 @@ If you want to collaborate with me, feel free to Fork this project and open a pu
   * Tell me what you want to learn.
   * Report any Logical Error.
   * Report any Run-Time Error.
-  * Ask questions if you do not understand something. (Question must be related to our lesson. For any other question you should visit [Stack Overflow](https://stackoverflow.com/). )
+  * Ask questions if you do not understand something. (Question must be related to our lesson. For any other questions you should visit [Stack Overflow](https://stackoverflow.com/). )
   
 * For Pull request
   * Add comments to source code.
