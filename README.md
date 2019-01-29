@@ -1,6 +1,6 @@
 # CSharp-to-Programming
 Learn Programming through C Sharp<br/>
-C# is an easy to learn programming language since Microsoft provide a big library call .Net Framework.<br/>
+C# is an easy to learn programming language since Microsoft provide a buge library called .Net Framework.<br/>
 We provide you tutorial in Cantonese and source code with comment in English
 ##### Learn and Practice. That's how we work!
 
