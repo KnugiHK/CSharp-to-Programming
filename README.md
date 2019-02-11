@@ -9,7 +9,7 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
 
 # Courses and Progress
 1. Learn programming from saying *Hello,World!*
-   * Almost there
+   * Released
    * Curriculum: Output "Hello World".
 2. Learn programming from making a simple calculator.
    * Preparing
