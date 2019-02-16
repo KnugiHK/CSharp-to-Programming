@@ -32,4 +32,4 @@ If you want to collaborate with us, feel free to Fork this project and open a pu
   * Correct any Logical Error.
   * Correct any Run-Time Error.
   * Create a new lesson or add some code.(I will try to understand it and use it in our lessons.)
-  * If you want to be a regular contributor, you should contribute atleast one time. Once your request being merged, you can request to be a regular contributor by leave comments in your pull request
+##### If you want to be a regular contributor, you should contribute at least one time. Once your request being merged, you can request to be a regular contributor by leave comments in your pull request
