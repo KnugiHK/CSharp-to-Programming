@@ -16,9 +16,9 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
    * Curriculum: UI design; Introduce to data type; Selection statement; Event; Subroutine; Attribute .
 
 # Work together
-If you want to help me to improve the quality of this project, you can submit an issue.
+If you want to help us to improve the quality of this project, you can submit an issue.
 
-If you want to collaborate with me, feel free to Fork this project and open a pull request. 
+If you want to collaborate with us, feel free to Fork this project and open a pull request. 
 
 ### What you can do?
 * For Issue
