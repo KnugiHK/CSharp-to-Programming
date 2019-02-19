@@ -20,7 +20,7 @@ If you want to help us to improve the quality of this project, you can submit an
 
 If you want to collaborate with us, feel free to Fork this project and open a pull request. 
 
-### What you can do?
+### What can you do?
 * For Issue
   * Tell us what you want to learn.
   * Report any Logical Error.
