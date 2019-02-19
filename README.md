@@ -22,7 +22,7 @@ If you want to collaborate with us, feel free to Fork this project and open a pu
 
 ### What you can do?
 * For Issue
-  * Tell me what you want to learn.
+  * Tell us what you want to learn.
   * Report any Logical Error.
   * Report any Run-Time Error.
   * Ask questions if you do not understand something. (Question must be related to our lesson. For any other questions you should visit [Stack Overflow](https://stackoverflow.com/). )
