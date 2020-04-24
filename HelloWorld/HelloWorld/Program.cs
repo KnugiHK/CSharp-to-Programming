@@ -12,7 +12,7 @@ namespace HelloWorld
             Console.Write("Without a new line.");
             //The WriteLine() always appends a new line character(\n) to the end of the string.
             //This means any subsequent output will start on a new line.
-            Console.WriteLine("Hello, World!);
+            Console.WriteLine("Hello, World!");
             Console.WriteLine("Subsequent output will start on a new line.");
             //Use a built-in input method to prevent closing automatically.
             Console.ReadLine();
