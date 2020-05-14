@@ -11,9 +11,13 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
 1. Learn programming from saying *Hello,World!*
    * Released
    * Curriculum: Output "Hello World".
-2. Learn programming from making a simple calculator.
-   * Preparing
-   * Curriculum: UI design; Introduce to data type; Selection statement; Event; Subroutine; Attribute .
+2. Learn programming from makeing a simple authenticator.
+   * Preparing: Adding comments
+   * Curriculum: Variable; Subroutine; Selection statement; Introduction to data type; Attribute; Basic input;
+   * Extra: Security concerns
+3. Learn programming from making a simple calculator.
+   * Pending
+   * Curriculum: UI design; Event; Subroutine.
 
 # Work together
 If you want to help us to improve the quality of this project, you can submit an issue.
