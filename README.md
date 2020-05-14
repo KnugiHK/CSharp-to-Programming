@@ -13,11 +13,11 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
    * Curriculum: Output "Hello World".
 2. Learn programming from makeing a simple command line authenticator.
    * Preparing: Adding comments
-   * Curriculum: Variable; Subroutine; Selection statement; Introduction to data type; Attribute; Basic input;
+   * Curriculum: Variable; Subroutine; Selection statement; Introduction to data type; Attribute; Basic input.
    * Extra: Security concerns
 3. Learn programming from making a simple graphical authenticator (GUI).
    * Pending
-   * Curriculum: UI design; Event; Subroutine.
+   * Curriculum: UI design; Event; Subroutine; basic MySQL.
 
 # Work together
 If you want to help us to improve the quality of this project, you can submit an issue.
