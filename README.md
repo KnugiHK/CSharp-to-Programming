@@ -11,11 +11,11 @@ You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.yo
 1. Learn programming from saying *Hello,World!*
    * Released
    * Curriculum: Output "Hello World".
-2. Learn programming from makeing a simple authenticator.
+2. Learn programming from makeing a simple command line authenticator.
    * Preparing: Adding comments
    * Curriculum: Variable; Subroutine; Selection statement; Introduction to data type; Attribute; Basic input;
    * Extra: Security concerns
-3. Learn programming from making a simple calculator.
+3. Learn programming from making a simple graphical authenticator (GUI).
    * Pending
    * Curriculum: UI design; Event; Subroutine.
 
