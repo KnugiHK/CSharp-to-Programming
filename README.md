@@ -5,7 +5,7 @@ We believe everyone should learn how to code. So we provide you tutorial in Cant
 ##### Learn through Practice. That's how we work!
 
 # Learn CSharp to Programming on YouTube
-You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.youtube.com/channel/UCXnU8m7TXF4n1hxf5XWxPCA).
+You can learn how to code on my [YouTube Channel(Cantonese only)](https://www.youtube.com/channel/UC6Iq09aXkqDZr2FmxA21SKA).
 
 # Courses and Progress
 1. Learn programming from saying *Hello,World!*
